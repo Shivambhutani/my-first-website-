@@ -1,0 +1,33 @@
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #141517;
+    color: honeydew;
+}
+#u{
+    padding-bottom: 90;
+
+div{
+    background-color:#0b0b0b;
+    height: 50px;
+    
+}
+input{
+    width: 30%;
+    height: 40%;
+    border: 60;
+}
+#hello{
+    height: 20px;
+    width: 30px;
+    background-color: #b9d026;
+}
+hr{
+    height: 1px;
+    background-color:#232f3e ;
+    margin-top: 0%;
+}
+.slider{
+    
+}
